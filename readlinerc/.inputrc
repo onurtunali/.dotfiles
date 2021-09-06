@@ -1,0 +1,5 @@
+set editing-mode vi
+set keymap vi-command
+"v":history-search-forward
+set colored-stats On
+set visible-stats On
