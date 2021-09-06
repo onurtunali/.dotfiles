@@ -1,0 +1,7 @@
+map x toggle_fullscreen
+set selection-clipboard clipboard
+map [fullscreen] x toggle_fullscreen
+set window-height 1000
+set window-width 1900
+set smooth-scroll true
+set zoom-step 1
