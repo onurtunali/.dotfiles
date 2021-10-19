@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "terminal.integrated.fontSize": 17,
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": true,
+    "editor.wordWrap": "on",
+    "breadcrumbs.enabled": false,
+    "editor.fontSize": 18
+}
